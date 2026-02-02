@@ -413,7 +413,6 @@
 <param name="СхемаВложения">0,3/0,3/0,25</param>
 <param name="ЦеновойСегмент">стандарт</param>
 <param name="Количество единиц продаж в транспортной упаковке">100</param>
-<param name="Размер, мм">6x20x15</param>
 <param name="Страна происхождения">Китай</param>
 <param name="Гарантийный срок">12</param>
 <param name="Вес, г">2</param>
