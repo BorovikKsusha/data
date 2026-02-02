@@ -1,0 +1,440 @@
+<yml_catalog xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2024-04-09 18:31">
+<shop>
+<name>Комус</name>
+<company>ООО "Комус"</company>
+<url>komus.ru</url>
+<email>offer_status_report@komus.net</email>
+<currencies>
+<currency id="RUB" rate="1"/>
+</currencies>
+<categories>
+<category id="05">Демонстрационное оборудование</category>
+<category id="0504" parentId="05">Доски для информации</category>
+<category id="050401" parentId="0504">Магнитно маркерные доски</category>
+<category id="0507" parentId="05">Рекламные стойки, подставки, таблички</category>
+<category id="050703" parentId="0507">Подставки для информации</category>
+<category id="05070302" parentId="050703">Подставки настольные</category>
+<category id="06">Компьютерная техника</category>
+<category id="0606" parentId="06">Сетевое оборудование</category>
+<category id="060601" parentId="0606">Активное сетевое оборудование</category>
+<category id="06060112" parentId="060601">Сетевые адаптеры</category>
+<category id="060603" parentId="0606">Пассивное сетевое оборудование</category>
+<category id="06060303" parentId="060603">Сетевые кабели</category>
+<category id="0614" parentId="06">Силовое оборудование</category>
+<category id="061402" parentId="0614">Сетевые фильтры и стабилизаторы</category>
+<category id="06140201" parentId="061402">Сетевые фильтры</category>
+<category id="07">Компьютерные аксессуары</category>
+<category id="0701" parentId="07">Аксессуары для электронных и мобильных устройств</category>
+<category id="070102" parentId="0701">Зарядные устройства и адаптеры</category>
+<category id="07010203" parentId="070102">Внешние аккумуляторы</category>
+<category id="070108" parentId="0701">Чехлы и сумки</category>
+<category id="07010802" parentId="070108">Сумки для ноутбуков</category>
+<category id="070116" parentId="0701">Самоклеящиеся этикетки на компакт-диски</category>
+<category id="0706" parentId="07">Носители информации</category>
+<category id="070603" parentId="0706">Флеш-память USB</category>
+<category id="070609" parentId="0706">Аксессуары для носителей информации</category>
+<category id="07060903" parentId="070609">Конверты и футляры для CD</category>
+<category id="0707" parentId="07">Периферийные устройства</category>
+<category id="070705" parentId="0707">Мыши компьютерные</category>
+<category id="07070502" parentId="070705">Мыши проводные</category>
+<category id="070713" parentId="0707">Коврики для мыши</category>
+<category id="070714" parentId="0707">Гарнитуры для компьютеров</category>
+<category id="070716" parentId="0707">USB-устройства</category>
+<category id="07071602" parentId="070716">USB-разветвители</category>
+<category id="08">Мебель</category>
+<category id="0801" parentId="08">Аксессуары</category>
+<category id="080127" parentId="0801">Вешалки-плечики</category>
+<category id="08012702" parentId="080127">Вешалки-плечики классические</category>
+<category id="0820" parentId="08">Офисные кресла и стулья</category>
+<category id="082002" parentId="0820">Кресла для операторов</category>
+<category id="08200201" parentId="082002">Кресла для операторов стандартные</category>
+<category id="082003" parentId="0820">Кресла для руководителей</category>
+<category id="08200301" parentId="082003">Кресла для руководителей стандартные</category>
+<category id="082007" parentId="0820">Аксессуары для кресел</category>
+<category id="08200704" parentId="082007">Газлифты для кресел</category>
+<category id="0821" parentId="08">Сейфы</category>
+<category id="082106" parentId="0821">Сейфы мебельные</category>
+<category id="09">Офисная техника</category>
+<category id="0929" parentId="09">Климатическая техника</category>
+<category id="092902" parentId="0929">Вентиляторы</category>
+<category id="09290201" parentId="092902">Вентиляторы</category>
+<category id="0930" parentId="09">Брошюровщики, ламинаторы, резаки</category>
+<category id="093003" parentId="0930">Ламинаторы</category>
+<category id="093004" parentId="0930">Резаки</category>
+<category id="09300403" parentId="093004">Резаки сабельные</category>
+<category id="0931" parentId="09">Расходные материалы для переплета и ламинирования</category>
+<category id="093101" parentId="0931">Пленки для ламинирования</category>
+<category id="093102" parentId="0931">Обложки для переплета</category>
+<category id="093104" parentId="0931">Пружины и каналы для переплета</category>
+<category id="10">Офисные принадлежности</category>
+<category id="1003" parentId="10">Дыроколы</category>
+<category id="100301" parentId="1003">Стандартные дыроколы</category>
+<category id="10030101" parentId="100301">Дыроколы до 15 листов</category>
+<category id="1006" parentId="10">Клейкие ленты и диспенсеры</category>
+<category id="100602" parentId="1006">Канцелярские ленты</category>
+<category id="1008" parentId="10">Коврики на стол</category>
+<category id="1010" parentId="10">Накопители бумаг</category>
+<category id="101001" parentId="1010">Вертикальные накопители</category>
+<category id="1013" parentId="10">Настольные подставки</category>
+<category id="101302" parentId="1013">Подставки для канцелярских мелочей</category>
+<category id="10130202" parentId="101302">Подставки для карандашей и ручек</category>
+<category id="1017" parentId="10">Скрепки, кнопки, зажимы для бумаг</category>
+<category id="101703" parentId="1017">Зажимы для бумаг</category>
+<category id="1019" parentId="10">Штемпельная продукция</category>
+<category id="101907" parentId="1019">Подушки</category>
+<category id="10190701" parentId="101907">Подушки настольные</category>
+<category id="1024" parentId="10">Бумага для заметок_стандартные размеры</category>
+<category id="102401" parentId="1024">Бумага для заметок с клейким краем</category>
+<category id="10240103" parentId="102401">Стикеры стандартные</category>
+<category id="11">Папки, системы архивации документов</category>
+<category id="1102" parentId="11">Папки архивные</category>
+<category id="110204" parentId="1102">Архивные папки с "завязками"</category>
+<category id="11020401" parentId="110204">Архивные папки из бумвинила</category>
+<category id="1103" parentId="11">Папки пластиковые</category>
+<category id="110301" parentId="1103">Папки на кольцах</category>
+<category id="11030104" parentId="110301">Папки на 4-х кольцах</category>
+<category id="1104" parentId="11">Папки-портфели</category>
+<category id="110401" parentId="1104">Папки-портфели пластиковые</category>
+<category id="1105" parentId="11">Папки рег-ры с ар.мех._стандарт. р-ры</category>
+<category id="110502" parentId="1105">Папки-регистраторы с шириной корешка 80 мм</category>
+<category id="1108" parentId="11">Скоросшиватели, механизмы для скоросшивателей</category>
+<category id="110803" parentId="1108">Скоросшиватели пластиковые</category>
+<category id="1116" parentId="11">Файлы-вкладыши</category>
+<category id="111601" parentId="1116">Файлы-вкладыши тонкие 25-35мкм</category>
+<category id="111602" parentId="1116">Файлы-вкладыши плотные от 35мкм</category>
+<category id="13">Праздничная и поздравительная продукция</category>
+<category id="1306" parentId="13">Папки адресные</category>
+<category id="14">Продукты питания</category>
+<category id="1409" parentId="14">Кофе, какао</category>
+<category id="140901" parentId="1409">Кофе</category>
+<category id="14090101" parentId="140901">Кофе растворимый</category>
+<category id="14090102" parentId="140901">Кофе в зернах</category>
+<category id="1454" parentId="14">Мучные кондитерские изделия</category>
+<category id="145404" parentId="1454">Печенье, крекеры, пряники</category>
+<category id="14540402" parentId="145404">Печенье</category>
+<category id="18">Товары для учебы</category>
+<category id="1824" parentId="18">Принадлежности для черчения</category>
+<category id="182405" parentId="1824">Готовальни, циркули</category>
+<category id="18240501" parentId="182405">Готовальни</category>
+<category id="18240502" parentId="182405">Циркули</category>
+<category id="1826" parentId="18">Принадлежности для рисования</category>
+<category id="182604" parentId="1826">Кисти для рисования</category>
+<category id="182607" parentId="1826">Карандаши для рисования</category>
+<category id="18260705" parentId="182607">Карандаши цветные</category>
+<category id="1827" parentId="18">Школьные канцтовары</category>
+<category id="182702" parentId="1827">Школьные наборы, подставки (старая группа)</category>
+<category id="18270201" parentId="182702">Школьные наборы</category>
+<category id="1828" parentId="18">Школьные папки, обложки</category>
+<category id="182802" parentId="1828">Папки</category>
+<category id="18280201" parentId="182802">Папки для тетрадей А4, А5</category>
+<category id="1829" parentId="18">Школьная галантерея</category>
+<category id="182901" parentId="1829">Рюкзаки школьные и дошкольные</category>
+<category id="18290102" parentId="182901">Рюкзаки школьные</category>
+<category id="182902" parentId="1829">Мешки для обуви</category>
+<category id="182903" parentId="1829">Пеналы</category>
+<category id="18290302" parentId="182903">Пеналы</category>
+<category id="182904" parentId="1829">Одежда для уроков труда</category>
+<category id="182905" parentId="1829">Ранцы</category>
+<category id="22">Рабочая одежда</category>
+<category id="2208" parentId="22">Средства индивидуальной защиты</category>
+<category id="220805" parentId="2208">Перчатки и нарукавники</category>
+<category id="22080511" parentId="220805">Перчатки резиновые хозяйственные и КЩС</category>
+<category id="35">Подарки и Сувениры</category>
+<category id="3507" parentId="35">Декоративные предметы интерьера</category>
+<category id="350713" parentId="3507">Ароматические саше, палочки, лампы</category>
+<category id="350723" parentId="3507">Фотоальбомы и рамки для фото</category>
+<category id="35072301" parentId="350723">Фоторамки, рамки для сертификатов</category>
+<category id="41">Деловая бумажная продукция</category>
+<category id="4103" parentId="41">Продукция для планирования</category>
+<category id="410306" parentId="4103">Бизнес тетради и блокноты</category>
+<category id="41030601" parentId="410306">Блокноты и бизнес тетради форматов А4 и А5</category>
+<category id="42">Медицинские товары</category>
+<category id="4211" parentId="42">Медицинское оборудование</category>
+<category id="421104" parentId="4211">Дезинфекционное оборудование</category>
+<category id="42110401" parentId="421104">Облучатели-рециркуляторы</category>
+<category id="4214" parentId="42">Медицинские перчатки</category>
+<category id="421405" parentId="4214">Нитриловые перчатки</category>
+<category id="42140501" parentId="421405">Нитриловые перчатки</category>
+<category id="4216" parentId="42">Перевязочные средства</category>
+<category id="421607" parentId="4216">Лейкопластыри</category>
+<category id="42160706" parentId="421607">Бактерицидные и медицинские пластыри</category>
+<category id="4227" parentId="42">Диагностические тесты</category>
+<category id="422709" parentId="4227">Тесты на вирусы и заболевания</category>
+<category id="42270901" parentId="422709">Тесты на коронавирус</category>
+<category id="45">Хобби и творчество</category>
+<category id="4502" parentId="45">Творчество своими руками</category>
+<category id="450210" parentId="4502">Маркеры для творчества</category>
+<category id="45021001" parentId="450210">Маркеры меловые</category>
+<category id="4504" parentId="45">Товары для художников</category>
+<category id="450401" parentId="4504">Мольберты, холсты</category>
+<category id="45040102" parentId="450401">Холсты</category>
+<category id="450404" parentId="4504">Пастель, сангина, уголь</category>
+<category id="45040402" parentId="450404">Пастель сухая</category>
+<category id="450410" parentId="4504">Бумага для живописи и сухих техник</category>
+<category id="45041001" parentId="450410">Бумага для живописи и сухих техник</category>
+<category id="51">Красота и здоровье</category>
+<category id="5101" parentId="51">Косметика, парфюмерия, гигиена</category>
+<category id="510106" parentId="5101">Подарочные наборы косметические</category>
+<category id="51010601" parentId="510106">Подарочные наборы для женщин</category>
+<category id="54">Бытовая и профессиональная химия</category>
+<category id="5402" parentId="54">Профессиональная химия</category>
+<category id="540205" parentId="5402">Моющие средства для уборки помещений</category>
+<category id="54020502" parentId="540205">Проф. средства для мытья поверхностей</category>
+<category id="5404" parentId="54">Мыло</category>
+<category id="540402" parentId="5404">Мыло жидкое</category>
+<category id="54040201" parentId="540402">Мыло жидкое</category>
+<category id="5409" parentId="54">Чистящие и моющие средства</category>
+<category id="540901" parentId="5409">Чистящие средства для кухни</category>
+<category id="54090101" parentId="540901">Чистящие средства для кухни</category>
+<category id="540902" parentId="5409">Средства для мытья пола</category>
+<category id="54090201" parentId="540902">Средства для мытья пола</category>
+<category id="540908" parentId="5409">Ср-ва для ухода за электр-кой и техникой</category>
+<category id="54090801" parentId="540908">Средства для чистки оргтехники</category>
+<category id="54090802" parentId="540908">Пневматические распылители для глубокой очистки</category>
+<category id="55">Гигиенические товары</category>
+<category id="5505" parentId="55">Бумага туалетная и диспенсеры</category>
+<category id="550502" parentId="5505">Бумага туалетная профессиональная</category>
+<category id="55050201" parentId="550502">Бумага туалетная профессиональная</category>
+<category id="550503" parentId="5505">Покрытия для унитаза</category>
+<category id="55050301" parentId="550503">Держатели для покрытий на унитаз</category>
+<category id="5506" parentId="55">Полотенца бумажные и диспенсеры</category>
+<category id="550601" parentId="5506">Полотенца бумажные бытовые</category>
+<category id="55060101" parentId="550601">Полотенца бумажные бытовые</category>
+<category id="550602" parentId="5506">Полотенца бумажные профессиональные</category>
+<category id="55060201" parentId="550602">Полотенца бумажные профессиональные</category>
+<category id="5508" parentId="55">Протирочные материалы и диспенсеры</category>
+<category id="550801" parentId="5508">Протирочные материалы и диспенсеры</category>
+<category id="55080102" parentId="550801">Протирочная бумага и материалы</category>
+<category id="5509" parentId="55">Салфетки</category>
+<category id="550901" parentId="5509">Салфетки бумажные</category>
+<category id="55090101" parentId="550901">Салфетки бумажные сервировочные</category>
+<category id="550902" parentId="5509">Салфетки влажные</category>
+<category id="55090201" parentId="550902">Салфетки влажные для личной гигиены</category>
+<category id="55090202" parentId="550902">Салфетки влажные для поверхностей</category>
+<category id="58">Освещение и электротовары</category>
+<category id="5801" parentId="58">Батарейки</category>
+<category id="580101" parentId="5801">Аккумуляторы</category>
+<category id="58010104" parentId="580101">Аккумуляторы AA (пальчиковые)</category>
+<category id="580102" parentId="5801">Батарейки</category>
+<category id="58010202" parentId="580102">Батарейки Крона 9V</category>
+<category id="58010203" parentId="580102">Батарейки D</category>
+<category id="58010205" parentId="580102">Батарейки AAA (мизинчиковые)</category>
+<category id="58010206" parentId="580102">Батарейки C</category>
+<category id="5803" parentId="58">Лампы электрические и светильники</category>
+<category id="580301" parentId="5803">Лампы электрические</category>
+<category id="58030104" parentId="580301">Лампы светодиодные</category>
+<category id="580304" parentId="5803">Прожекторы светодиодные</category>
+<category id="58030401" parentId="580304">Прожекторы светодиодные</category>
+<category id="5805" parentId="58">Фонари</category>
+<category id="580501" parentId="5805">Фонари налобные</category>
+<category id="59">Посуда Сервировка стола</category>
+<category id="5903" parentId="59">Одноразовая посуда</category>
+<category id="590303" parentId="5903">Одноразовая посуда для питья</category>
+<category id="59030301" parentId="590303">Бокалы и рюмки одноразовые</category>
+<category id="59030303" parentId="590303">Стаканы одноразовые</category>
+<category id="590306" parentId="5903">Одноразовые столовые приборы</category>
+<category id="59030601" parentId="590306">Вилки одноразовые</category>
+<category id="59030604" parentId="590306">Ножи одноразовые</category>
+<category id="59030605" parentId="590306">Размешиватели одноразовые</category>
+<category id="61">Техника для дома и интерьер</category>
+<category id="6103" parentId="61">Настольные лампы, торшеры, бра</category>
+<category id="610309" parentId="6103">Настольные лампы</category>
+<category id="62">Товары для гостиниц и отелей и дома</category>
+<category id="6201" parentId="62">Косметика и аксессуары для гостиничного номера</category>
+<category id="620101" parentId="6201">Аксессуары для гостиничного номера</category>
+<category id="6202" parentId="62">Текстиль для гостиниц, отелей и дома</category>
+<category id="620210" parentId="6202">Покрывала и пледы</category>
+<category id="62021001" parentId="620210">Пледы</category>
+<category id="63">Бытовая и профессиональная техника</category>
+<category id="6302" parentId="63">Мелкая бытовая техника</category>
+<category id="630203" parentId="6302">Чайники и термопоты</category>
+<category id="63020301" parentId="630203">Чайники</category>
+<category id="64">Товары для торговли</category>
+<category id="6403" parentId="64">Ролики_стандартные размеры</category>
+<category id="640301" parentId="6403">Ролики для кассовых аппаратов</category>
+<category id="64030101" parentId="640301">Ролики для касс из термобумаги</category>
+<category id="6407" parentId="64">Ценники и ценникодержатели</category>
+<category id="640701" parentId="6407">Ценникодержатели</category>
+<category id="64070104" parentId="640701">Ценникодержатели настольные</category>
+<category id="6422" parentId="64">Товары для инкассации и опломбирования</category>
+<category id="642207" parentId="6422">Резинки для денег и напальчники</category>
+<category id="64220701" parentId="642207">Резинки для денег и напальчники</category>
+<category id="642209" parentId="6422">Лупы</category>
+<category id="64220901" parentId="642209">Лупы</category>
+<category id="65">Упаковка и маркировка</category>
+<category id="6502" parentId="65">Упаковочные материалы</category>
+<category id="650207" parentId="6502">Пленка упаковочная</category>
+<category id="65020709" parentId="650207">Пленка пищевая</category>
+<category id="650210" parentId="6502">Шпагаты и веревки</category>
+<category id="6503" parentId="65">Стретч пленка</category>
+<category id="650301" parentId="6503">Пленка стретч для ручной упаковки</category>
+<category id="65030101" parentId="650301">Пленка стретч для ручной упаковки</category>
+<category id="6506" parentId="65">Клейкие ленты</category>
+<category id="650601" parentId="6506">Ленты клейкие упаковочные</category>
+<category id="65060101" parentId="650601">Скотч и клейкие ленты для ручной упаковки</category>
+<category id="650602" parentId="6506">Ленты клейкие специальные</category>
+<category id="65060203" parentId="650602">Двухсторонний скотч и крепежные клейкие ленты</category>
+<category id="67">Теле и Видео техника</category>
+<category id="6704" parentId="67">Аудиотехника</category>
+<category id="670406" parentId="6704">Микрофоны</category>
+<category id="70">Инструменты</category>
+<category id="7010" parentId="70">Ножи и ножницы для работ</category>
+<category id="701001" parentId="7010">Ножи канцелярские и универсальные</category>
+<category id="70100101" parentId="701001">Ножи канцелярские и универсальные</category>
+<category id="701002" parentId="7010">Запасные лезвия для ножей</category>
+<category id="7015" parentId="70">Ручной инструмент</category>
+<category id="701507" parentId="7015">Ударно-рычажный инструмент</category>
+<category id="70150703" parentId="701507">Топоры</category>
+<category id="701509" parentId="7015">Малярный инструмент</category>
+<category id="70150901" parentId="701509">Валики малярные</category>
+<category id="701518" parentId="7015">Отвертки</category>
+<category id="70151801" parentId="701518">Отвертки классические</category>
+<category id="70151803" parentId="701518">Отвертки со сменными насадками</category>
+<category id="701521" parentId="7015">Шарнирно-губцевый и зажимной инструмент</category>
+<category id="70152101" parentId="701521">Шарнирно-губцевый инструмент</category>
+<category id="70152102" parentId="701521">Плоскогубцы и пассатижи</category>
+<category id="70152104" parentId="701521">Клещи переставные</category>
+<category id="7020" parentId="70">Клеи бытовые и профессиональные</category>
+<category id="702010" parentId="7020">Жидкие гвозди</category>
+<category id="7021" parentId="70">Крепежные изделия</category>
+<category id="702101" parentId="7021">Хомуты</category>
+<category id="7030" parentId="70">Расходные материалы для инструмента</category>
+<category id="703006" parentId="7030">Расходка для дрелей</category>
+<category id="70300604" parentId="703006">Сверла и зенкеры для дрелей</category>
+<category id="703008" parentId="7030">Расходка для лобзиков</category>
+<category id="70300802" parentId="703008">Пилки для лобзиков</category>
+<category id="71">Товары для уборки и емкости для мусора</category>
+<category id="7102" parentId="71">Пакеты для мусора</category>
+<category id="710201" parentId="7102">Пакеты для мусора</category>
+<category id="71020103" parentId="710201">Пакеты для мусора</category>
+<category id="7103" parentId="71">Товары для уборки помещений и улиц</category>
+<category id="710304" parentId="7103">Инвентарь для уборки пола</category>
+<category id="71030415" parentId="710304">МОПы для швабр</category>
+<category id="710309" parentId="7103">Салфетки хозяйственные</category>
+<category id="72">Письменные принадлежности</category>
+<category id="7201" parentId="72">Точилки</category>
+<category id="720101" parentId="7201">Точилки механические</category>
+<category id="7203" parentId="72">Корректирующие средства</category>
+<category id="720302" parentId="7203">Корректирующая лента</category>
+<category id="7206" parentId="72">Маркеры</category>
+<category id="720605" parentId="7206">Текстовыделители</category>
+<category id="7209" parentId="72">Ручки</category>
+<category id="720903" parentId="7209">Ручки гелевые</category>
+<category id="72090303" parentId="720903">Ручки гелевые неавтоматические</category>
+<category id="720911" parentId="7209">Ручки и наборы класса Люкс</category>
+<category id="72091101" parentId="720911">Ручки класса Люкс</category>
+<category id="74">Лакокрасочные материалы</category>
+<category id="7403" parentId="74">Пена и герметики</category>
+<category id="740301" parentId="7403">Герметики</category>
+</categories>
+<offers>
+<offer id="1622840">
+<warehouse unit="шт" name="Склад Москва">100</warehouse>
+<name>Доска магнитно-маркерная Attache Economy Classic 30х45см лак, ПВХ профиль</name>
+<brand>Attache</brand>
+<vendorCode>1622840</vendorCode>
+<unitName>шт</unitName>
+<units>шт</units>
+<url>https://www.komus.ru/p/1622840</url>
+<currencyId>RUB</currencyId>
+<categoryId>050401</categoryId>
+<delivery_time>Без срока доставки</delivery_time>
+<import>false</import>
+<dimensions>0,34/0,48/0,04</dimensions>
+<weight>1</weight>
+<description>Доска магнитно-маркерная Attache Economy Classic 30x45 см. Настенная односекционная белая, без линовки. В основании доски прочная сотовая панель из картона толщиной 9.5 мм. Толщина металла 0.3 мм. Размер рабочей поверхности: 28x43 см. Лаковое покрытие. Пластиковая рама с прочными пластиковыми уголками. Магнитно-маркерная доска используется во время презентаций или для отображения материала, который нужно наглядно представить. Металлическая белая глянцевая поверхность позволяет крепить на доску важную информацию с помощью магнитов, использовать бумагу для заметок с клейким краем (стикеры) или писать специальными whiteboard маркерами сухого стирания, которые легко удаляются. Таким образом, на доске удобно размещать информацию, которая часто меняется. Эти доски используются для комфортной работы с информацией в организациях, учебных заведениях и домашних офисах. При удалении записей применяются только специальные губки-стиратели в комбинации со специализированным спреем для более тщательной очистки полотна. Для </description>
+<barcode>4670072247281</barcode>
+<price>413</price>
+<quantity>158</quantity>
+<param name="Ширина">0,34</param>
+<param name="Высота">0,04</param>
+<param name="Глубина">0,48</param>
+<param name="Объем">0,006528</param>
+<param name="Экологичный">false</param>
+<param name="СхемаВложения">0,34/0,48/0,04</param>
+<param name="ЦеновойСегмент">стандарт</param>
+<param name="Количество единиц продаж в транспортной упаковке">1</param>
+<param name="вес нетто товара">1 КГ</param>
+<param name="Страна происхождения">Россия</param>
+<param name="Вид линовки">отсутствует</param>
+<param name="Вес, кг">0.813</param>
+<param name="Гарантийный срок">12</param>
+<param name="Особенности">для офиса</param>
+<param name="Расположение">горизонтальное/вертикальное</param>
+<param name="Крепление на стену">навесное</param>
+<param name="Тип рабочей поверхности">магнитно-маркерная</param>
+<param name="Количество рабочих поверхностей">1</param>
+<param name="Цвет доски">белый</param>
+<param name="Размер доски (ВхШ)">30x45</param>
+<param name="Размер рабочей поверхности">28x43</param>
+<param name="Вид доски">настенная односекционная</param>
+<param name="Тип покрытия доски">лаковое</param>
+<param name="Антибликовое покрытие">Нет</param>
+<param name="Наличие полочки">Да</param>
+<param name="Гарантийный срок покрытия">1 год</param>
+<param name="Серия досок">Classic</param>
+<param name="Материал рамы">пластик</param>
+<param name="Наличие выдвижной перекладины">Нет</param>
+<param name="Поворотный механизм">Нет</param>
+<param name="Количество единиц продаж в тра">1</param>
+<param name="Количество рабочих поверхносте">1</param>
+<param name="Есть оферта на Портале поставщ">да</param>
+<param name="Есть оферта на Портале поставщиков">да</param>
+<picture>https://media.komus.ru/medias/sys_master/root/h0e/h9b/11586300608542.jpg</picture>
+<picture>https://media.komus.ru/medias/sys_master/root/h12/hf7/11456506593310.jpg</picture>
+<picture>https://media.komus.ru/medias/sys_master/root/hfc/ha9/11478487171102.jpg</picture>
+<picture>https://media.komus.ru/medias/sys_master/root/h3e/h44/11478488350750.jpg</picture>
+<picture>https://media.komus.ru/medias/sys_master/root/h88/h83/11478488743966.jpg</picture>
+<vat>VAT_20</vat>
+</offer>
+<offer id="1448517">
+<warehouse unit="шт" name="Склад Питер">89</warehouse>
+<name>Сетевой адаптер микро WiFi Gembird 150 Мбит, USB, 802.11b/g/n</name>
+<brand>Gembird</brand>
+<vendorCode>WNP-UA-007</vendorCode>
+<unitName>шт</unitName>
+<units>шт</units>
+<url>https://www.komus.ru/p/1448517</url>
+<currencyId>RUB</currencyId>
+<categoryId>06060112</categoryId>
+<delivery_time>Без срока доставки</delivery_time>
+<import>false</import>
+<dimensions>0,3/0,3/0,25</dimensions>
+<weight>0,02</weight>
+<description>Сетевой адаптер Wi-Fi Gembird WNP-UA-007 Внешний вид и/или характеристики товара могут быть изменены производителем в соответствии с производственным процессом.</description>
+<barcode>4680039794833</barcode>
+<price>453</price>
+<quantity>89</quantity>
+<param name="Ширина">0,3</param>
+<param name="Высота">0,25</param>
+<param name="Глубина">0,3</param>
+<param name="Объем">0,000225</param>
+<param name="Экологичный">false</param>
+<param name="СхемаВложения">0,3/0,3/0,25</param>
+<param name="ЦеновойСегмент">стандарт</param>
+<param name="Количество единиц продаж в транспортной упаковке">100</param>
+<param name="Страна происхождения">Китай</param>
+<param name="Гарантийный срок">12</param>
+<param name="Вес, г">2</param>
+<param name="Интерфейс">USB 2.0</param>
+<param name="Коммерческий">Нет</param>
+<param name="Частотный диапазон">2.4 ГГц</param>
+<param name="Скорость сети Wi-Fi 2.4 ГГц">150 Мбит/с</param>
+<param name="Скорость сети Wi-Fi 5 ГГц">0</param>
+<param name="Стандарт Wi-Fi">4 (802.11n)</param>
+<param name="Поддержка MIMO">отсутствует</param>
+<param name="Шифрование сети">WEP, WPA, WPA2, WPA-PSK, WPA2-PSK</param>
+<param name="Тип антенны">внутренняя</param>
+<param name="Ведение статистики по товарам игрового ассортимента">Нет</param>
+<param name="Количество единиц продаж в тра">100</param>
+<param name="Есть оферта на Портале поставщ">да</param>
+<param name="Есть оферта на Портале поставщиков">да</param>
+<picture>https://media.komus.ru/medias/sys_master/root/hf3/hde/10893907427358.jpg</picture>
+<picture>https://media.komus.ru/medias/sys_master/root/h8f/h7f/10893904805918.jpg</picture>
+<picture>https://media.komus.ru/medias/sys_master/root/h03/h14/10893905461278.jpg</picture>
+<picture>https://media.komus.ru/medias/sys_master/root/h56/h2a/10893906575390.jpg</picture>
+<vat>VAT_20</vat>
+</offer>  
+</offers>
+</shop>
+</yml_catalog>
