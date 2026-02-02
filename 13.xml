@@ -387,6 +387,56 @@
 <picture>https://media.komus.ru/medias/sys_master/root/h88/h83/11478488743966.jpg</picture>
 <vat>VAT_20</vat>
 </offer>
+<offer id="1448517">
+<warehouse unit="шт" name="Склад Москва">89</warehouse>
+<name>Сетевой адаптер микро WiFi Gembird 150 Мбит, USB, 802.11b/g/n</name>
+<brand>Gembird</brand>
+<vendorCode>WNP-UA-007</vendorCode>
+<unitName>шт</unitName>
+<units>шт</units>
+<url>https://www.komus.ru/p/1448517</url>
+<currencyId>RUB</currencyId>
+<categoryId>06060112</categoryId>
+<delivery_time>Без срока доставки</delivery_time>
+<import>false</import>
+<dimensions>0,3/0,3/0,25</dimensions>
+<weight>0,02</weight>
+<description>Сетевой адаптер Wi-Fi Gembird WNP-UA-007 Внешний вид и/или характеристики товара могут быть изменены производителем в соответствии с производственным процессом.</description>
+<barcode>4680039794833</barcode>
+<price>453</price>
+<quantity>89</quantity>
+<param name="Ширина">0,3</param>
+<param name="Высота">0,25</param>
+<param name="Глубина">0,3</param>
+<param name="Объем">0,000225</param>
+<param name="Экологичный">false</param>
+<param name="СхемаВложения">0,3/0,3/0,25</param>
+<param name="ЦеновойСегмент">стандарт</param>
+<param name="Количество единиц продаж в транспортной упаковке">100</param>
+<param name="вес брутто"><Объект не найден> (160:9b4e0050560128bb11edadec1c3a7e6f)</param>
+<param name="Размер, мм">6x20x15</param>
+<param name="Страна происхождения">Китай</param>
+<param name="Гарантийный срок">12</param>
+<param name="Вес, г">2</param>
+<param name="Интерфейс">USB 2.0</param>
+<param name="Коммерческий">Нет</param>
+<param name="Частотный диапазон">2.4 ГГц</param>
+<param name="Скорость сети Wi-Fi 2.4 ГГц">150 Мбит/с</param>
+<param name="Скорость сети Wi-Fi 5 ГГц">0</param>
+<param name="Стандарт Wi-Fi">4 (802.11n)</param>
+<param name="Поддержка MIMO">отсутствует</param>
+<param name="Шифрование сети">WEP, WPA, WPA2, WPA-PSK, WPA2-PSK</param>
+<param name="Тип антенны">внутренняя</param>
+<param name="Ведение статистики по товарам игрового ассортимента">Нет</param>
+<param name="Количество единиц продаж в тра">100</param>
+<param name="Есть оферта на Портале поставщ">да</param>
+<param name="Есть оферта на Портале поставщиков">да</param>
+<picture>https://media.komus.ru/medias/sys_master/root/hf3/hde/10893907427358.jpg</picture>
+<picture>https://media.komus.ru/medias/sys_master/root/h8f/h7f/10893904805918.jpg</picture>
+<picture>https://media.komus.ru/medias/sys_master/root/h03/h14/10893905461278.jpg</picture>
+<picture>https://media.komus.ru/medias/sys_master/root/h56/h2a/10893906575390.jpg</picture>
+<vat>VAT_20</vat>
+</offer>  
 </offers>
 </shop>
 </yml_catalog>
